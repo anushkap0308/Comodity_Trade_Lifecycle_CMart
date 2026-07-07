@@ -60,7 +60,7 @@ trade, with the specific point of disagreement flagged:
 ![3-way match drill-down](screenshots/2b_exception_drilldown.png)
 
 ### Page 3 — Trade Lifecycle View
-![Trade Lifecycle View](3_Trade_lifecycle.png)
+![Trade Lifecycle View](3_Way_Match_DrillDown.png)
 
 ### Page 4 — Configuration
 ![Configuration](4_Configuration.png)
