@@ -51,10 +51,10 @@ don't exist yet, which is what was 404ing on GitHub)._
 ![Ops Overview](1_Overview.png)
 
 ### Page 2 — Exception Queue (with 3-way match drill-down)
-![Exception Queue](2.1_Exception_queue.png)
-![Exception Queue2](2.2_Exception_queue.png)
-![Exception Queue3](2.3_Exception_queue.png)
-![Exception Queue4](2.4_Exception_queue.png)
+![Exception Queue](2.1_Exception_Queue.png)
+![Exception Queue2](2.2_Exception_Queue.png)
+![Exception Queue3](2.3_Exception_Queue.png)
+![Exception Queue4](2.4_Exception_Queue.png)
 
 The drill-down at the bottom of this page is the core reconciliation view —
 captured, confirmed, and invoiced data compared side by side for a single
