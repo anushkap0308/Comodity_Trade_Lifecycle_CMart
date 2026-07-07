@@ -52,9 +52,9 @@ don't exist yet, which is what was 404ing on GitHub)._
 
 ### Page 2 — Exception Queue (with 3-way match drill-down)
 ![Exception Queue](2.1_Exception_queue.png)
-![Exception Queue](2.2_Exception_queue.png)
-![Exception Queue](2.3_Exception_queue.png)
-![Exception Queue](2.4_Exception_queue.png)
+![Exception Queue2](2.2_Exception_queue.png)
+![Exception Queue3](2.3_Exception_queue.png)
+![Exception Queue4](2.4_Exception_queue.png)
 
 The drill-down at the bottom of this page is the core reconciliation view —
 captured, confirmed, and invoiced data compared side by side for a single
@@ -63,7 +63,7 @@ trade, with the specific point of disagreement flagged:
 ![3-way match drill-down](3_Way_Match_DrillDown.png)
 
 ### Page 3 — Trade Lifecycle View
-![Trade Lifecycle View](3_Trade_Lifecycle)
+![Trade Lifecycle View](3_Trade_Lifecycle.png)
 
 ### Page 4 — Configuration
 ![Configuration](4_Configuration.png)
