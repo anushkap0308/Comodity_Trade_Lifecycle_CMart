@@ -42,6 +42,11 @@ Queue and drill-down view exist to make that comparison visible.
 
 ## Screenshots
 
+_Screenshots go in a `screenshots/` folder at the repo root — add PNGs there and
+uncomment the lines below (they're commented out for now since the files
+don't exist yet, which is what was 404ing on GitHub)._
+
+<!--
 ### Page 1 — Ops Overview
 ![Ops Overview](screenshots/1_ops_overview.png)
 
@@ -59,6 +64,7 @@ trade, with the specific point of disagreement flagged:
 
 ### Page 4 — Configuration
 ![Configuration](screenshots/4_configuration.png)
+-->
 
 ## The trade lifecycle this models
 
