@@ -182,7 +182,7 @@ def inject():
 # at any size and themeable (used next to the page title).
 # ---------------------------------------------------------------------------
 def brand_mark_svg(size: int = 30) -> str:
-    with open("assets/cmart_logo.png", "rb") as f:
+    with open("cmart_logo.png", "rb") as f:
         logo = base64.b64encode(f.read()).decode()
 
     return f"""
