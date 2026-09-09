@@ -6,9 +6,6 @@ commonly break along the way: price breaks, quantity mismatches, and
 settlement fails — surfaced through 3-way matching between the captured
 deal, the counterparty's confirmation, and the invoice.
 
-**Live demo:** _add your deployed Streamlit Community Cloud / HuggingFace
-Spaces link here after deployment_
-
 ---
 
 ## Why this exists
